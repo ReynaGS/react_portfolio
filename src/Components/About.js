@@ -12,7 +12,7 @@ function About (){
                 
                 <Row> 
                     <Col md="6">
-                <CardImg   src="/assets/imgs/rg.png" alt="Reyna Garcia" style={{ width : "60%",}} />
+                <CardImg   src="assets/imgs/rg.png" alt="Reyna Garcia" style={{ width : "60%",}} />
                     </Col>
                     <Col md="6">
                         <CardBody  className="text-center" >
