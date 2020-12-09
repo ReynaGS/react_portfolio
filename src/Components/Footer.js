@@ -6,7 +6,7 @@ function Footer (){
     textAlign: "center", color: "white",}}>
             <div className="two-toned-footer-color"></div>
 
-            <p class="text-muted text-muted-footer text-center">
+            <p className="text-muted text-muted-footer text-center">
                 &copy; Copyright
     </p>
         </footer>
