@@ -10,7 +10,7 @@ function Projects (){
                     <Project src="../assets/imgs/quizzInc.png" href="https://stormy-shelf-50629.herokuapp.com/" title="QuizzInc"></Project>
                 </Col>
                 <Col md="6">
-                    <Project src="assets/imgs/noteTaker.png" href="https://afternoon-wildwood-56930.herokuapp.com" title="noteTaker"></Project>
+                    <Project src="noteTaker.png" href="https://afternoon-wildwood-56930.herokuapp.com" title="noteTaker"></Project>
                 </Col>
             </Row>
             <Row>
