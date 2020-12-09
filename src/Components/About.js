@@ -18,7 +18,7 @@ function About (){
                         <CardBody  className="text-center" >
                             <CardTitle tag="h5">About Me</CardTitle>
                     <CardText>
-                        <p>My name is, Reyna Garcia,I am from the Dominican Republic and currently living in Florida.
+                        <p>Hi, My name is, Reyna Garcia,I am from the Dominican Republic and currently living in Florida.
                         I have a BS degree in Economics from Utah State University. Over the years, I have work in
                         banking, and business management.
                         </p>
